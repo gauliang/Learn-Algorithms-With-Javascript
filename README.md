@@ -1,6 +1,6 @@
 # Learn-Algorithms-With-Javascript
 
-基于 `javascript` 学习并实现常用的经典算法。
+基于 `javascript` 学习并实现常用的经典算法，并为部分算法撰写 **算法分析**。
 
 ## 经典算法
 
@@ -11,6 +11,7 @@
 
     1. 冒泡排序 [sort/lib/bubble-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/bubble-sort.js)
     1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
+    1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
 
 1. 查找
     1. ...

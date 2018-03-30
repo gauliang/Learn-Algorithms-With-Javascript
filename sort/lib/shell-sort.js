@@ -13,6 +13,17 @@ function shellSort(list) {
 
     let length = list.length;
 
+    for (let gap = Math.floor(length / 2); gap > 0; gap = Math.floor(gap / 2)) {
+        for (let i = gap; i < length; i++) {
+
+            let k = i;
+            while (k - gap > 0 && list[k] < list[k - gap]) {
+                swap(list, k, k - gap);
+                k--;
+            }
+        }
+    }
+
     return list;
 }
 

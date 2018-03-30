@@ -1,6 +1,7 @@
 const insertionSort = require("./lib/insertion-sort");
 const bubbleSort = require("./lib/bubble-sort");
 const selectionSort = require("./lib/selection-sort");
+const shellSort = require("./lib/shell-sort");
 
 function makerlist(number){
     var list = [];
