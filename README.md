@@ -6,9 +6,6 @@
 
 1. 排序
     1. 插入排序 [sort/lib/insertion-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/insertion-sort.js)
-
-        优化空间：若插入操作比较耗费资源，且数据量大时，可在插入环节使用二分插入。
-
     1. 冒泡排序 [sort/lib/bubble-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/bubble-sort.js)
     1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
