@@ -2,37 +2,6 @@
 
 基于 `javascript` 学习并实现常用的经典算法。
 
-## 数学概念 & javascript Math
-
-1. 排列组合
-1. log
-1. 阶乘函数
-1. 离散 依赖
-1. 毕达哥拉斯公式
-
-Math Object
-|方法|描述|
-|---|---|
-|abs||
-|acos||
-|acosh||
-|asin||
-|asinh||
-|atan||
-|atan2||
-|atan5||
-|cbrt||
-|ceil||
-|clz32||
-|cos||
-|cosh||
-|exp||
-|expm1||
-|floor||
-
->
-    Better Explained 是一个杰出的网站，致力于以通俗易懂的语言阐释数学。
-
 ## 经典算法
 
 1. 排序
@@ -80,3 +49,34 @@ Math Object
 1. Apache Hadoop
 1. Simhash
 1. Diffie-Hellman
+
+## 数学概念 & javascript Math
+
+1. 排列组合
+1. log
+1. 阶乘函数
+1. 离散 依赖
+1. 毕达哥拉斯公式
+
+Math Object
+|方法|描述|
+|---|---|
+|abs| |
+|acos| |
+|acosh| |
+|asin| |
+|asinh| |
+|atan| |
+|atan2| |
+|atan5| |
+|cbrt| |
+|ceil| |
+|clz32| |
+|cos| |
+|cosh| |
+|exp| |
+|expm1| |
+|floor| |
+
+>
+    Better Explained 是一个杰出的网站，致力于以通俗易懂的语言阐释数学。
