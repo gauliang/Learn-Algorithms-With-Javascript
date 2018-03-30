@@ -52,15 +52,21 @@
 
 ## 数学概念 & javascript Math
 
+>
+    Better Explained 是一个杰出的网站，致力于以通俗易懂的语言阐释数学。
+
+### 数学概念
+
 1. 排列组合
 1. log
 1. 阶乘函数
 1. 离散 依赖
 1. 毕达哥拉斯公式
 
-Math Object
+### Math Object
+
 |方法|描述|
-|---|---|
+| --- | --- |
 |abs| |
 |acos| |
 |acosh| |
@@ -77,6 +83,3 @@ Math Object
 |exp| |
 |expm1| |
 |floor| |
-
->
-    Better Explained 是一个杰出的网站，致力于以通俗易懂的语言阐释数学。
