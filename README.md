@@ -10,10 +10,8 @@
     1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
 
-1. 查找
+1. ...
     1. ...
-
-二分查找适用于在有序列表中快速找出指定元素。
 
 ## 简单实现
 
