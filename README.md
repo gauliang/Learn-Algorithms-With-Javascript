@@ -5,7 +5,7 @@
 ## 经典算法
 
 1. 排序
-    1. 插入排序 sort/lib/insertion-sort.js
+    1. 插入排序 [sort/lib/insertion-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/insertion-sort.js)
 
         优化空间：若插入操作比较耗费资源，且数据量大时，可在插入环节使用二分插入。
 
