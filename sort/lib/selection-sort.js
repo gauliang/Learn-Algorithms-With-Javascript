@@ -1,5 +1,6 @@
 /**
  * 选择排序
+ * 分析：O(n^2)
  * @param {Array} 无序的 list 
  * @returns {Array} 已排序的数组
  */
