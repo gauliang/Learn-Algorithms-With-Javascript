@@ -9,18 +9,18 @@
     1. 冒泡排序 [sort/lib/bubble-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/bubble-sort.js)
     1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
+    1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
 
 1. ...
     1. ...
 
-## 简单实现
+## 计划清单
 
-1. 二分查找实现 - log(n)
-1. 递归
 1. 快速排序
 1. 合并排序
-    分而治之
-    快速排序
+    分而治之 快速排序
+1. 二分查找实现 - log(n)
+1. 递归
 1. 散列表
 1. 广度优先搜索
     总能找到最近的node
