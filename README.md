@@ -10,6 +10,7 @@
     1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
     1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
+    1. 快速排序 [sort/lib/quick-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/quick-sort.js)
 
 1. ...
     1. ...
