@@ -3,6 +3,7 @@ const bubbleSort = require("./lib/bubble-sort");
 const selectionSort = require("./lib/selection-sort");
 const shellSort = require("./lib/shell-sort");
 const mergeSort = require("./lib/merge-sort");
+const quickSort = require("./lib/quick-sort");
 
 function makerlist(number){
     var list = [];
@@ -19,4 +20,4 @@ function makerlist(number){
 
 let list = [1,5,7,632,50,47,969,43,326,73,2,76,45];
 
-let res = mergeSort(list);
+let res = quickSort(list);
