@@ -1,6 +1,6 @@
 # Learn-Algorithms-With-Javascript
 
-基于 `javascript` 学习并实现常用的经典算法，并为部分算法撰写 **算法分析**。
+基于 `javascript` 学习并实现常用的经典算法。
 
 ## 经典算法
 
@@ -15,6 +15,8 @@
 
 1. 查找
     1. ...
+
+## 算法分析
 
 ## 计划清单
 
