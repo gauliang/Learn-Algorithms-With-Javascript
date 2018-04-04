@@ -18,14 +18,13 @@
 
 ## 算法分析
 
-1. 数学基础
-    1. 数学概念
-        1. 排列组合
-        1. log
-        1. 阶乘函数
-        1. 离散 依赖
-        1. 毕达哥拉斯公式
-    1. [javascript Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+...
+
+## 数学基础
+
+1. 数学概念
+    1. 排列组合/log/阶乘函数/离散 依赖/毕达哥拉斯公式/求和
+1. [javascript Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 ## 计划清单
 
