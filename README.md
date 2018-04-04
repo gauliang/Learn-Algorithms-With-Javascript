@@ -6,12 +6,12 @@
 
 1. 排序
     1. 插入排序 [sort/lib/insertion-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/insertion-sort.js)
-    1. 冒泡排序 [sort/lib/bubble-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/bubble-sort.js)
-    1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
-    1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
-    1. 快速排序 [sort/lib/quick-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/quick-sort.js)
+    1. 选择排序 [sort/lib/selection-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/selection-sort.js)
     1. 堆排序 [sort/lib/heap-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/heap-sort.js)
+    1. 冒泡排序 [sort/lib/bubble-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/bubble-sort.js)
+    1. 快速排序 [sort/lib/quick-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/quick-sort.js)
+    1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
 
 1. 查找
     1. ...
@@ -24,7 +24,7 @@
 
 1. 数学概念
     1. 排列组合/log/阶乘函数/离散 依赖/毕达哥拉斯公式/求和
-1. [javascript Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+1. [Javascript Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 ## 计划清单
 
@@ -56,5 +56,5 @@
 
 ## 参考资料
 
->
-    Better Explained 是一个杰出的网站，致力于以通俗易懂的语言阐释数学。
+1. **Better Explained** —— Learn math without memorization. No cramming.
+1. **《算法导论》** —— Thomas H.Cormen Charles E.Leiserson Ronald L.Rivest Clifford Stein
