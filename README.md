@@ -11,15 +11,13 @@
     1. 希尔排序 [sort/lib/shell-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/shell-sort.js)
     1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
     1. 快速排序 [sort/lib/quick-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/quick-sort.js)
+    1. 堆排序 [sort/lib/heap-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/heap-sort.js)
 
-1. ...
+1. 查找
     1. ...
 
 ## 计划清单
 
-1. 快速排序
-1. 合并排序
-    分而治之 快速排序
 1. 二分查找实现 - log(n)
 1. 递归
 1. 散列表
@@ -29,7 +27,6 @@
 1. 狄克斯特拉算法
 1. 贝尔曼·福德算法
 1. 贪婪算法
-1. 背包问题
 1. 旅行商问题
 1. NP完全问题
 1. 动态规划
