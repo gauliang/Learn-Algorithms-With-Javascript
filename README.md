@@ -56,5 +56,11 @@
 
 ## 参考资料
 
+### 1. Website
+
 1. **Better Explained** —— Learn math without memorization. No cramming.
-1. **《算法导论》** —— Thomas H.Cormen Charles E.Leiserson Ronald L.Rivest Clifford Stein
+1. **commoncraft** —— Our Product is Explanation.
+
+### 2. Book
+
+1. **introduction to Algorithms** —— Thomas H.Cormen Charles E.Leiserson Ronald L.Rivest Clifford Stein
