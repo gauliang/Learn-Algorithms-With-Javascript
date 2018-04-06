@@ -14,21 +14,47 @@
     1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
 
 1. 查找
-    1. ...
+    1. 顺序查找
+    1. 二分查找实现
+    1. 插值查找
+    1. 斐波那契查找
+    1. 树表查找
+    1. 分块查找
+    1. 哈希查找
 
 ## 算法分析
 
-...
+若以图文形式对该部分内容进行整理归纳，需要花费的时间和精力将是非常巨大的。计划，以后抽时间进行不定期补充。
 
 ## 数学基础
 
-1. 数学概念
-    1. 排列组合/log/阶乘函数/离散 依赖/毕达哥拉斯公式/求和
+我们不一定有精力深入透彻的研究下列全部内容，但在**算法分析**开始前，概览下述内容绝对是非常有益的。
+
+1. 知识大纲
+    1. 求和
+        1. 求和公式及其性质
+        1. 确定求和时间的界
+    1. 离散数学内容
+        1. 集合
+        1. 关系
+        1. 函数
+        1. 图
+        1. 树
+    1. 计数与概率
+        1. 计数
+        1. 概率
+        1. 离散随机变量
+        1. 几何分布与二项分布
+        1. 二项分布的尾部
+    1. 矩阵
+        1. 矩阵与矩阵运算
+        1. 矩阵的基本性质
 1. [Javascript Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 ## 计划清单
 
 1. 二分查找实现 - log(n)
+1. 最大子数组问题
 1. 递归
 1. 散列表
 1. 广度优先搜索
@@ -58,9 +84,12 @@
 
 ### 1. Website
 
-1. **Better Explained** —— Learn math without memorization. No cramming.
-1. **commoncraft** —— Our Product is Explanation.
+1. **[Better Explained](https://betterexplained.com/)** —— Learn math without memorization. No cramming.
+1. **[Commoncraft](https://www.commoncraft.com/)** —— Our Product is Explanation.
 
 ### 2. Book
 
-1. **introduction to Algorithms** —— Thomas H.Cormen Charles E.Leiserson Ronald L.Rivest Clifford Stein
+1. **算法图解** —— 像小说一样有趣的算法入门书
+1. **Algorithms** —— 中文版书名：《算法概论》，将任何具有初等数学基础的人引入算法应用与研究殿堂的引路石。
+1. **Algorithms Fourth Edition** —— 算法第四版 [algs4.cs.princeton.edu](http://algs4.cs.princeton.edu)
+1. **Introduction to Algorithms** —— Thomas H.Cormen Charles E.Leiserson Ronald L.Rivest Clifford Stein
