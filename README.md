@@ -14,7 +14,7 @@
     1. 合并排序 [sort/lib/merge-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/merge-sort.js)
 
 1. 查找
-    1. 顺序查找
+    1. 顺序查找 [search/sequence-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/sequence-search.js)
     1. 二分查找实现
     1. 插值查找
     1. 斐波那契查找
@@ -24,7 +24,7 @@
 
 ## 算法分析
 
-若以图文形式对该部分内容进行整理归纳，需要花费的时间和精力将是非常巨大的。计划，以后抽时间进行不定期补充。
+图文形式整理归纳该部分内容，需花费大量的时间和精力。计划，以后抽时间进行不定期补充。
 
 ## 数学基础
 
