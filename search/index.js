@@ -1,5 +1,8 @@
 const sequenceSearch = require("./lib/sequence-search");
+const { binarySearch, binarySearchRcs } = require("./lib/binary-search");
 
-let list = [1,5,7,632,50,47,969,43,326,73,2,76,45];
 
-let res = sequenceSearch(list,45);
+let list = [1, 2, 5, 7, 43, 45, 47, 50, 73, 76, 326, 632, 969];
+
+let res = binarySearchRcs(list, 9);
+ 
