@@ -16,7 +16,7 @@
 1. 查找
     1. 顺序查找 [search/sequence-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/sequence-search.js)
     1. 二分查找实现 [search/binary-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/binary-search.js)
-    1. 插值查找
+    1. 插值查找 [search/insert-value-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/insert-value-search.js)
     1. 斐波那契查找
     1. 树表查找
     1. 分块查找
@@ -24,7 +24,7 @@
 
 ## 算法分析
 
-图文形式整理归纳该部分内容，需花费大量的时间和精力。计划，以后抽时间进行不定期补充。
+图文形式整理归纳该部分内容，需花费大量的时间和精力，且网上关于算法分析的高质量资料也非常多。因此，暂不对此节内容进行整理，可能的话，以后再不定期抽时间做相关补充。
 
 ## 数学基础
 
