@@ -2,8 +2,9 @@
  * 二分查找
  * 分析：O(logn)
  * 元素必须是有序的。
- * @param {Array} 无序的 list 
- * @returns {Array} 已排序的数组
+ * @param {Array} 有序的 list 
+ * @param 待查找的元素
+ * @returns {Array} 若找到元素，则返回其索引；未找到，则返回 -1
  */
 function binarySearch(list, value) {
 

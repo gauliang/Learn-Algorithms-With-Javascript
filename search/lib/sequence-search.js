@@ -2,7 +2,8 @@
  * 顺序查找
  * 分析：O(n)
  * @param {Array} 无序的 list 
- * @returns {Array} 已排序的数组
+ * @param 待查找的元素
+ * @returns {Array} 若找到元素，则返回其索引；未找到，则返回 -1
  */
 function sequenceSearch(list, item) {
 
