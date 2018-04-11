@@ -13,7 +13,7 @@ function insertValueSearch(list, value) {
     low = 0;
     high = list.length - 1;
 
-    while (low <= high) {
+    while (list[low] != list[high] && list[low] <= value && list[high] >= value) {
 
         mid = low + Math.floor((high - low) * (value - list[low]) / (list[high] - list[low]));
 
@@ -27,16 +27,7 @@ function insertValueSearch(list, value) {
 
         if (list[mid] < value) {
             low = mid + 1;
-
-            // 元素不存在
-            if (list[low] > value) {
-                return -1;
-            }
-
         }
-
-
-
     }
 
     return -1;
@@ -48,15 +39,11 @@ function insertValueSearchRcs(list, value) {
 
     let search = function (low, high) {
 
-        if (high < low) {
+        if (list[low] == list[high] || list[low] > value || list[high] < value) {
             return -1;
         }
 
         mid = low + Math.floor((high - low) * (value - list[low]) / (list[high] - list[low]));
-
-        if(mid>high || mid<low){
-            return -1;
-        }
 
         if (list[mid] == value) {
             return mid;
