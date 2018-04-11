@@ -17,7 +17,7 @@
     1. 顺序查找 [search/sequence-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/sequence-search.js)
     1. 二分查找实现 [search/binary-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/binary-search.js)
     1. 插值查找 [search/insert-value-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/insert-value-search.js)
-    1. 斐波那契查找
+    1. 斐波那契查找 [search/fibonacci-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/fibonacci-search.js)
     1. 树表查找
     1. 分块查找
     1. 哈希查找
