@@ -86,6 +86,7 @@
 
 1. **[Better Explained](https://betterexplained.com/)** —— Learn math without memorization. No cramming.
 1. **[Commoncraft](https://www.commoncraft.com/)** —— Our Product is Explanation.
+1. **[GeeksforGeeks](https://www.geeksforgeeks.org/)** —— A computer science portal for geeks.
 
 ### 2. Book
 
