@@ -2,7 +2,7 @@
 
 基于 `javascript` 学习并实现常用的经典算法。
 
-## 经典算法
+## 算法
 
 1. 排序
     1. 插入排序 [sort/lib/insertion-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/insertion-sort.js)
@@ -18,9 +18,11 @@
     1. 二分查找实现 [search/binary-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/binary-search.js)
     1. 插值查找 [search/insert-value-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/insert-value-search.js)
     1. 斐波那契查找 [search/fibonacci-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/fibonacci-search.js)
-    1. 树表查找
-    1. 分块查找
-    1. 哈希查找
+    1. 哈希查找 [search/hash-search.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/search/lib/hash-search.js)
+
+1. 数据结构 DataStructures
+    1. 树
+    1. 图
 
 ## 算法分析
 
