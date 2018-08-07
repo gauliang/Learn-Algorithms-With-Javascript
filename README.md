@@ -2,7 +2,7 @@
 
 基于 `javascript` 学习并实现常用的经典算法。
 
-## 算法
+## 算法实现
 
 1. 排序
     1. 插入排序 [sort/lib/insertion-sort.js](https://github.com/gauliang/Learn-Algorithms-With-Javascript/tree/master/sort/lib/insertion-sort.js)
