@@ -88,7 +88,7 @@
 1. **[Commoncraft](https://www.commoncraft.com/)** —— Our Product is Explanation.
 1. **[GeeksforGeeks](https://www.geeksforgeeks.org/)** —— A computer science portal for geeks.
 2. **[Scaler](https://www.scaler.com/topics/)** —— 顶级极客学习 javascript 的免费资源。
-
+2. **[wiingy](https://wiingy.com/learn/python/python-tutorial/)** —— https://wiingy.com/learn/python/python-tutorial
 ### 2. Book
 
 1. **算法图解** —— 像小说一样有趣的算法入门书
